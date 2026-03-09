@@ -209,6 +209,7 @@ A movie/TV show browser application using The Movie Database API:
 
 <div align="center">
   
-  **"Be the best developer you can be." – Ganesh Kumatole**
+  **"Be the best developer you can be."**
+– Ganesh Kumatole
   
 </div>
