@@ -1,10 +1,13 @@
 <h1 align="center">Hey there 👋... </h1>
 <h2 align='center'>I'm Ganesh Kumatole </h2>
-<h3 align="center">Aspiring Full-Stack Web Developer | MERN Stack | Problem Solver</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2196F3&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;JavaScript+%26+TypeScript+Enthusiast
-;Lifelong+Learner" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;JavaScript+%26+TypeScript+Enthusiast;MERN+Stack;Problem+Solver;Lifelong+Learner"
+      alt="Typing SVG"
+    />
+  </a>
 </div>
 
 ---
@@ -20,13 +23,16 @@
 ---
 
 ## 🛠️ Core Tech Stack
-
-### Languages
+### Primary Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Familiar Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frontend
 
