@@ -58,7 +58,7 @@
 
 ## 💼 Featured Projects
 
-### [FinTracker](https://github.com/Ganesh-Kumatole/<your-fintracker-repo>)
+### [FinTracker](https://github.com/Ganesh-Kumatole/mini-project_CCAI-project)
 
 **React 18 · TypeScript · Firebase · Vite · Hugging Face · Chart.js**
 
